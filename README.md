@@ -247,5 +247,8 @@ Claude Code (Agent)
 ```
 
 ## License
-
+如果需要了解，共创，学习相关亚马逊运营Skill，请添加我们公众号和相关联系方式，进行分享相关亚马逊相关运营Skill源文件
+![9f453825a605ac5a92149be126636dc4](https://github.com/user-attachments/assets/9680fd49-0f0f-4642-8601-462ca28f1c77)
+![8acbe748b4a2e09b088c6e2b5cdfa85e](https://github.com/user-attachments/assets/86f00f61-cac6-4da1-9b4d-e78f75aecbc8)
+---<img width="844" height="376" alt="image" src="https://github.com/user-attachments/assets/0c809a29-8dad-4fd0-b5ce-d439e250a60a" />
 MIT
