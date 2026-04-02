@@ -20,6 +20,10 @@ Agent 自动完成：
 美国 (US) | 英国 (GB) | 德国 (DE) | 法国 (FR) | 日本 (JP) | 加拿大 (CA) | 西班牙 (ES) | 意大利 (IT) | 墨西哥 (MX) | 阿联酋 (AE) | 澳大利亚 (AU) | 巴西 (BR) | 沙特 (SA) | 印度 (IN)
 
 ---
+<img width="1517" height="450" alt="9c8a457793e427a1226c7bd31d6ecf74" src="https://github.com/user-attachments/assets/10d009f1-13ad-4665-8940-e1c3ddd6c9c1" />
+<img width="1120" height="377" alt="ac5d971a58affbca43a1dfc4f34b7962" src="https://github.com/user-attachments/assets/44ac4900-5700-4614-80db-49e0cc208d86" />
+<img width="887" height="375" alt="adf0da809fae9c5c5c1e3cda1736aef2" src="https://github.com/user-attachments/assets/521d3c7b-2e7d-443f-98a0-71a7b9f01132" />
+
 
 ## 安装教程（从零开始）
 
@@ -149,6 +153,8 @@ claude   # 启动 Claude Code，Skill 自动加载
 - Sorftime 返回约 50 条产品数据
 - 飞书自动创建多维表格 + 仪表盘
 - 终端输出飞书多维表格的访问链接
+<img width="1929" height="895" alt="image" src="https://github.com/user-attachments/assets/6eea02c8-dc6e-4106-9c2b-6221b5a3684d" />
+<img width="2003" height="897" alt="image" src="https://github.com/user-attachments/assets/0d48d8cb-da65-4357-ab75-d7b05fbbb5df" />
 
 ---
 
